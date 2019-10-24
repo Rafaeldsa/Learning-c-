@@ -4,7 +4,7 @@
 #include <math.h>
 using namespace std;
 
-//funções de conta
+//funï¿½ï¿½es de conta
 
 conta :: conta (float cSaldo) {
     this->saldo = cSaldo;
@@ -100,3 +100,6 @@ float contaCorrente :: sacar(float qtd) {
     }
         return result;
 };
+
+
+// Wes esteve aqui.
