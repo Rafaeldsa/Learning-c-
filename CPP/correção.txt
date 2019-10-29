@@ -1,0 +1,7 @@
+1 - alterei o método set_mudar_canal, pois estava chamando ele mesmo e igualando a uma váriavel, no caso temos q atualizar
+a variável canal.
+2 - alterei o metodo get_consultar_canal(), estava como void( n retornava o canal) e tinha uma impressão do canal(errado, pq temos q tratar
+entradas e sáidas só no main), temos que retornar algo(o canal) já que é um método get(retorna determinado atributo de uma classe).
+3 - alterei o metodo get_consultar_volume(). Mesma explicação do item 2.
+4 - no arquivo.cpp os metodos set tinham como retorno (int), como metodos do tipo set não retornam nada, coloquei void.
+5 - faltava parenteses nos metodos do case 4 e 5.

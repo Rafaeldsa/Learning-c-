@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="pessoa.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="23" Column="1"/>
+		</File>
+		<File Name="pessoa.cpp" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="15" Column="3"/>
+		</File>
+		<File Name="empregado.h" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="1" Column="20"/>
+		</File>
+		<File Name="empregado.cpp" Top="No" Tabpos="5" TopLine="13">
+			<Cursor Line="27" Column="1"/>
+		</File>
+		<File Name="cliente.h" Top="No" Tabpos="6" TopLine="1">
+			<Cursor Line="10" Column="8"/>
+		</File>
+		<File Name="cliente.cpp" Top="No" Tabpos="7" TopLine="1">
+			<Cursor Line="36" Column="62"/>
+		</File>
+		<File Name="administrador.h" Top="No" Tabpos="8" TopLine="1">
+			<Cursor Line="14" Column="22"/>
+		</File>
+		<File Name="administrador.cpp" Top="Yes" Tabpos="9" TopLine="2">
+			<Cursor Line="24" Column="2"/>
+		</File>
+		<File Name="vendedor.h" Top="No" Tabpos="10" TopLine="1">
+			<Cursor Line="12" Column="13"/>
+		</File>
+		<File Name="vendedor.cpp" Top="No" Tabpos="11" TopLine="1">
+			<Cursor Line="9" Column="15"/>
+		</File>
+		<File Name="operario.h" Top="No" Tabpos="12" TopLine="1">
+			<Cursor Line="14" Column="25"/>
+		</File>
+		<File Name="operario.cpp" Top="No" Tabpos="13" TopLine="1">
+			<Cursor Line="37" Column="74"/>
+		</File>
+		<File Name="fornecedor.h" Top="No" Tabpos="14" TopLine="1">
+			<Cursor Line="23" Column="1"/>
+		</File>
+		<File Name="fornecedor.cpp" Top="No" Tabpos="15" TopLine="1">
+			<Cursor Line="40" Column="1"/>
+		</File>
+	</Files>
+</Layout>

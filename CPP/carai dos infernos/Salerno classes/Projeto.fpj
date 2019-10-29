@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Libs Value=""/>
+	<Flags Value=""/>
+	<Target Value="Projeto.exe"/>
+	<CommandLine Value=""/>
+	<CompilerOptions Value="-Wall -s"/>
+	<DeleteObjectsBefore Value="Yes"/>
+	<DeleteObjectsAfter Value="Yes"/>
+	<DeleteMakefileAfter Value="Yes"/>
+	<DeleteResourcesAfter Value="Yes"/>
+	<EnableTheme Value="No"/>
+	<RequiresAdmin Value="No"/>
+	<CompilerType Value="CPP"/>
+	<AppType Value="CONSOLE"/>
+	<Files>
+		<File Name="empregado.h"/>
+		<File Name="main.cpp"/>
+		<File Name="pessoa.h"/>
+		<File Name="pessoa.cpp"/>
+		<File Name="empregado.cpp"/>
+		<File Name="vendedor.h"/>
+		<File Name="operario.h"/>
+		<File Name="fornecedor.h"/>
+		<File Name="cliente.h"/>
+		<File Name="administrador.h"/>
+		<File Name="vendedor.cpp"/>
+		<File Name="operario.cpp"/>
+		<File Name="fornecedor.cpp"/>
+		<File Name="cliente.cpp"/>
+		<File Name="administrador.cpp"/>
+	</Files>
+</Project>
